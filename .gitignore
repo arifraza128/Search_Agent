@@ -1,0 +1,13 @@
+# Environment variables (contains private API keys)
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Agent artifacts & configs
+.agents
+.venv/
+venv/
